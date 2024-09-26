@@ -1,0 +1,4 @@
+use git add to add repository to staging area for review
+use commit -m plus filename to add repo; commit serves a s a snapshot
+then push repo to github
+
